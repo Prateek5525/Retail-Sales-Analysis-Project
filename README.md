@@ -56,7 +56,7 @@ This project demonstrates essential SQL skills for data analysis, including data
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/retail-sales-analysis-project.git
+   git clone https://github.com/Prateek5525/Retail-Sales-Analysis-Project.git
    cd retail-sales-analysis-project
 
 2. **Set Up the Database:**
